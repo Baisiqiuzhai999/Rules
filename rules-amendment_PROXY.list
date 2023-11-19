@@ -12,8 +12,7 @@ DOMAIN-KEYWORD,jmapibranch
 DOMAIN-KEYWORD,jm-comic
 
 #Cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,challenges.cloudflare.com
 
 #其他
 DOMAIN-SUFFIX,yandex.com
