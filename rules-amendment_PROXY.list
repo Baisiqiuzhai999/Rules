@@ -1,11 +1,24 @@
 #规则修正-代理
+
+#哔咔
 DOMAIN-SUFFIX,picacomic.com
-DOMAIN-SUFFIX,yandex.com
+
+#禁漫
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-KEYWORD,jmapinode
+DOMAIN-SUFFIX,jmcomic.me
+DOMAIN-KEYWORD,jmapiproxy
+DOMAIN-KEYWORD,jmapibranch
+DOMAIN-KEYWORD, jm-comic
+
+#Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,cloudflare
+
+#其他
+DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,zhiyin.bid
 DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,e-hentai.org
-DOMAIN-KEYWORD,jmapinode
-DOMAIN-SUFFIX,18comic.vip
+
